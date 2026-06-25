@@ -1,1 +1,2 @@
-echo ".vscode/" >> .gitignore
+".vscode/"
+"main"
